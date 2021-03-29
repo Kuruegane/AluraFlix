@@ -31,7 +31,6 @@ function addMovie () {
     }
     trailerInput.value = ""
   }
-    
   
   function showMovies(movie) {
     var movieList = document.querySelector('#listaFilmes')
